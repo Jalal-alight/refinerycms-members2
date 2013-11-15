@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
   s.test_files    = s.files.grep(%r{^(test|spec|features)/})
   s.require_paths = %w(lib)
 
-  s.add_dependency "refinerycms", "~> 2.0.0"
-  s.add_dependency "refinerycms-pages", "~> 2.0.0"
+  s.add_dependency "refinerycms", "~> 2.1.0"
+  s.add_dependency "refinerycms-pages", "~> 2.1.0"
 end
